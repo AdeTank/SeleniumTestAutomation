@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="16" passed="16" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-07T20:17:50 CET" name="Default suite" finished-at="2021-02-07T20:18:09 CET" duration-ms="19162">
+    <groups>
+    </groups>
+    <test started-at="2021-02-07T20:17:50 CET" name="Default test" finished-at="2021-02-07T20:18:09 CET" duration-ms="19162">
+      <class name="openLink.SeleniumTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:openLink.SeleniumTest@59d016c9]" started-at="2021-02-07T20:17:50 CET" name="setUp" finished-at="2021-02-07T20:18:00 CET" duration-ms="10585" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="clickHideBtn()[pri:1, instance:openLink.SeleniumTest@59d016c9]" started-at="2021-02-07T20:18:00 CET" name="clickHideBtn" finished-at="2021-02-07T20:18:01 CET" duration-ms="172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickHideBtn -->
+        <test-method signature="isEmuCheckBoxDisabled()[pri:2, instance:openLink.SeleniumTest@59d016c9]" started-at="2021-02-07T20:18:01 CET" name="isEmuCheckBoxDisabled" finished-at="2021-02-07T20:18:01 CET" duration-ms="35" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isEmuCheckBoxDisabled -->
+        <test-method signature="checkNumberOfCheckboxes()[pri:3, instance:openLink.SeleniumTest@59d016c9]" started-at="2021-02-07T20:18:01 CET" name="checkNumberOfCheckboxes" finished-at="2021-02-07T20:18:01 CET" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkNumberOfCheckboxes -->
+        <test-method signature="selectRadioBtnJezevaKucica()[pri:4, instance:openLink.SeleniumTest@59d016c9]" started-at="2021-02-07T20:18:01 CET" name="selectRadioBtnJezevaKucica" finished-at="2021-02-07T20:18:01 CET" duration-ms="182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectRadioBtnJezevaKucica -->
+        <test-method signature="selectTurskiFromDropdownNahlaCourses()[pri:5, instance:openLink.SeleniumTest@59d016c9]" started-at="2021-02-07T20:18:01 CET" name="selectTurskiFromDropdownNahlaCourses" finished-at="2021-02-07T20:18:01 CET" duration-ms="214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectTurskiFromDropdownNahlaCourses -->
+        <test-method signature="clickPromptBoxGetTextAfterCancel()[pri:6, instance:openLink.SeleniumTest@59d016c9]" started-at="2021-02-07T20:18:01 CET" name="clickPromptBoxGetTextAfterCancel" finished-at="2021-02-07T20:18:01 CET" duration-ms="230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickPromptBoxGetTextAfterCancel -->
+        <test-method signature="checkPromptBoxAndText()[pri:7, instance:openLink.SeleniumTest@59d016c9]" started-at="2021-02-07T20:18:01 CET" name="checkPromptBoxAndText" finished-at="2021-02-07T20:18:01 CET" duration-ms="201" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkPromptBoxAndText -->
+        <test-method signature="getTableNumberRowsCols()[pri:8, instance:openLink.SeleniumTest@59d016c9]" started-at="2021-02-07T20:18:01 CET" name="getTableNumberRowsCols" finished-at="2021-02-07T20:18:01 CET" duration-ms="36" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTableNumberRowsCols -->
+        <test-method signature="getTableNumberRowsExcludeTitle()[pri:9, instance:openLink.SeleniumTest@59d016c9]" started-at="2021-02-07T20:18:01 CET" name="getTableNumberRowsExcludeTitle" finished-at="2021-02-07T20:18:01 CET" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTableNumberRowsExcludeTitle -->
+        <test-method signature="getNamesForStudentsInEnglishCourse()[pri:10, instance:openLink.SeleniumTest@59d016c9]" started-at="2021-02-07T20:18:01 CET" name="getNamesForStudentsInEnglishCourse" finished-at="2021-02-07T20:18:02 CET" duration-ms="143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getNamesForStudentsInEnglishCourse -->
+        <test-method signature="openNewWindowNahlaPage()[pri:11, instance:openLink.SeleniumTest@59d016c9]" started-at="2021-02-07T20:18:02 CET" name="openNewWindowNahlaPage" finished-at="2021-02-07T20:18:06 CET" duration-ms="4253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openNewWindowNahlaPage -->
+        <test-method signature="listOfDragAndDropElements()[pri:12, instance:openLink.SeleniumTest@59d016c9]" started-at="2021-02-07T20:18:06 CET" name="listOfDragAndDropElements" finished-at="2021-02-07T20:18:06 CET" duration-ms="41" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- listOfDragAndDropElements -->
+        <test-method signature="dragAndDrop()[pri:13, instance:openLink.SeleniumTest@59d016c9]" started-at="2021-02-07T20:18:06 CET" name="dragAndDrop" finished-at="2021-02-07T20:18:07 CET" duration-ms="709" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dragAndDrop -->
+        <test-method signature="mouseOver()[pri:14, instance:openLink.SeleniumTest@59d016c9]" started-at="2021-02-07T20:18:07 CET" name="mouseOver" finished-at="2021-02-07T20:18:07 CET" duration-ms="494" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mouseOver -->
+        <test-method signature="clickOnVolontirajLink()[pri:15, instance:openLink.SeleniumTest@59d016c9]" started-at="2021-02-07T20:18:07 CET" name="clickOnVolontirajLink" finished-at="2021-02-07T20:18:08 CET" duration-ms="985" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnVolontirajLink -->
+        <test-method signature="getCurrentUrl()[pri:16, instance:openLink.SeleniumTest@59d016c9]" started-at="2021-02-07T20:18:08 CET" name="getCurrentUrl" finished-at="2021-02-07T20:18:08 CET" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCurrentUrl -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:openLink.SeleniumTest@59d016c9]" started-at="2021-02-07T20:18:08 CET" name="TearDown" finished-at="2021-02-07T20:18:09 CET" duration-ms="754" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- openLink.SeleniumTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
